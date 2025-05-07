@@ -2,12 +2,13 @@
 name: e.g. Issue name
 WBS ID#: 'e.g. 1.2.3'
 Activity Name: 'e.g. Template Creation'
+about: brief description of the issue
 Projects: ['e.g. ai-reference-creator-repository ']
 
 ---
 
 ## Description
-Explanation of the issue.
+Detailed explaination of the issue.
 
 ## Steps to Reproduce (if applicable)
 1. Go to '...'
