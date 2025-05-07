@@ -1,19 +1,13 @@
 ---
-name: WBS Issue template
-about: Provides a template for the entry of WBS related issues
-title: 'Issue: '
-labels: ''
-assignees: ''
+Issue Name: e.g. template modification
+WBS ID#: 'e.g. 1.2.3'
+Activity Name: 'e.g. Template Creation'
+Projects: ['e.g. ai-reference-creator-repository ']
 
----
-
----
-Issue name: ""
-projects: []
 ---
 
 ## Description
-Brief explanation of the issue.
+Explanation of the issue.
 
 ## Steps to Reproduce (if applicable)
 1. Go to '...'
