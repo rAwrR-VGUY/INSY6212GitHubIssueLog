@@ -1,5 +1,5 @@
 ---
-Issue Name: e.g. template modification
+name: e.g. Issue name
 WBS ID#: 'e.g. 1.2.3'
 Activity Name: 'e.g. Template Creation'
 Projects: ['e.g. ai-reference-creator-repository ']
